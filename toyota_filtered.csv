@@ -1,0 +1,200 @@
+Gender,Annual Income,Company,Model,Transmission,Color,Price ($)
+Male,1350000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1151000,Toyota,Corolla,Auto,Pale White,41100.0
+Female,825000,Toyota,Tacoma,Manual,Pale White,82000.0
+Female,13500,Toyota,Corolla,Auto,Pale White,41000.0
+Male,1326000,Toyota,RAV4,Manual,Black,85600.0
+Male,1810000,Toyota,RAV4,Manual,Black,85001.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,895000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1750000,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,427000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,742000,Toyota,RAV4,Manual,Black,85000.0
+Female,780000,Toyota,RAV4,Manual,Black,85000.0
+Male,935000,Toyota,Celica,Auto,Pale White,45000.0
+Male,13500,Toyota,Corolla,Auto,Red,41000.0
+Female,750000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,395000,Toyota,RAV4,Manual,Black,85000.0
+Male,1435000,Toyota,Tacoma,Auto,Pale White,53500.0
+Male,2200000,Toyota,Corolla,Manual,Red,54001.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,485000,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,2105000,Toyota,Celica,Auto,Pale White,45500.0
+Male,2268000,Toyota,Celica,Auto,Pale White,45800.0
+Male,13500,Toyota,Tacoma,Manual,Red,82000.0
+Male,720000,Toyota,Celica,Auto,Pale White,45000.0
+Male,2930000,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,815000,Toyota,Tacoma,Manual,Red,82000.0
+Male,1850000,Toyota,Corolla,Auto,Red,41000.0
+Male,1120000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,662000,Toyota,Celica,Auto,Pale White,45000.0
+Male,515000,Toyota,Celica,Auto,Pale White,45000.0
+Male,930000,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,1300000,Toyota,Celica,Auto,Pale White,45000.0
+Male,950000,Toyota,Celica,Auto,Pale White,45001.0
+Male,1335000,Toyota,Tacoma,Auto,Pale White,53500.0
+Male,416000,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,13500,Toyota,Tacoma,Manual,Red,82001.0
+Female,13500,Toyota,Tacoma,Manual,Red,82001.0
+Male,825000,Toyota,Corolla,Auto,Red,41000.0
+Male,1950000,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,440000,Toyota,Corolla,Auto,Red,41000.0
+Male,710000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,3010000,Toyota,Tacoma,Auto,Pale White,53001.0
+Female,510000,Toyota,Celica,Auto,Pale White,45000.0
+Male,1420000,Toyota,Corolla,Auto,Red,41000.0
+Female,2250000,Toyota,Celica,Auto,Pale White,45001.0
+Male,1045000,Toyota,Celica,Auto,Pale White,45500.0
+Male,1095000,Toyota,Tacoma,Auto,Pale White,53500.0
+Male,13500,Toyota,Tacoma,Manual,Pale White,82000.0
+Male,2205000,Toyota,Corolla,Auto,Pale White,41501.0
+Male,931000,Toyota,Corolla,Auto,Pale White,41000.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,710000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,485000,Toyota,Corolla,Auto,Pale White,41000.0
+Male,1023000,Toyota,Tacoma,Manual,Pale White,82300.0
+Male,750000,Toyota,Tacoma,Manual,Pale White,82000.0
+Female,480000,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,13500,Toyota,Celica,Auto,Pale White,45000.0
+Female,400000,Toyota,Celica,Auto,Pale White,45000.0
+Female,1250000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,840000,Toyota,Corolla,Auto,Red,41001.0
+Male,1590000,Toyota,Corolla,Auto,Red,41000.0
+Male,642500,Toyota,Corolla,Auto,Red,41500.0
+Male,2345000,Toyota,Celica,Auto,Pale White,45500.0
+Male,835000,Toyota,Tacoma,Manual,Red,82000.0
+Male,830500,Toyota,Celica,Auto,Pale White,45500.0
+Male,660000,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,1199000,Toyota,Tacoma,Auto,Pale White,53900.0
+Male,1275000,Toyota,Tacoma,Auto,Pale White,53501.0
+Male,1065000,Toyota,Tacoma,Auto,Pale White,53500.0
+Male,1295000,Toyota,Corolla,Auto,Red,41500.0
+Male,1370000,Toyota,Corolla,Auto,Red,41001.0
+Female,2800000,Toyota,Celica,Auto,Pale White,45000.0
+Male,1335000,Toyota,Tacoma,Auto,Pale White,53500.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,13500,Toyota,Corolla,Auto,Red,41000.0
+Female,1030000,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,1250000,Toyota,RAV4,Manual,Black,85000.0
+Male,710000,Toyota,RAV4,Manual,Black,85001.0
+Male,790000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1167500,Toyota,Tacoma,Manual,Pale White,82750.0
+Female,13500,Toyota,Corolla,Auto,Pale White,41000.0
+Male,852000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1302500,Toyota,Tacoma,Auto,Pale White,53250.0
+Female,13500,Toyota,Celica,Auto,Pale White,45000.0
+Male,1750000,Toyota,Celica,Auto,Pale White,45000.0
+Male,805000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,674000,Toyota,RAV4,Manual,Black,85000.0
+Male,380000,Toyota,RAV4,Manual,Black,85001.0
+Male,765000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,680000,Toyota,RAV4,Manual,Black,85000.0
+Male,1271000,Toyota,Celica,Auto,Pale White,45100.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53001.0
+Female,920000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1776000,Toyota,Celica,Auto,Pale White,45601.0
+Male,840000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1053000,Toyota,RAV4,Manual,Black,85300.0
+Female,785500,Toyota,Tacoma,Manual,Red,82500.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,765000,Toyota,Corolla,Auto,Red,41001.0
+Male,972000,Toyota,Tacoma,Manual,Red,82001.0
+Male,285000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,880000,Toyota,Corolla,Auto,Red,41001.0
+Male,1025000,Toyota,Celica,Auto,Pale White,45500.0
+Female,655000,Toyota,Corolla,Auto,Red,41000.0
+Male,1300000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,711000,Toyota,Corolla,Auto,Red,41000.0
+Male,1975000,Toyota,Corolla,Auto,Red,41501.0
+Male,1180000,Toyota,Corolla,Auto,Pale White,41001.0
+Male,13500,Toyota,RAV4,Manual,Black,85000.0
+Male,3400000,Toyota,Celica,Auto,Pale White,45000.0
+Male,673000,Toyota,RAV4,Manual,Black,85001.0
+Male,1020000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,515000,Toyota,Celica,Auto,Pale White,45001.0
+Female,1300000,Toyota,Celica,Auto,Pale White,45001.0
+Female,620000,Toyota,Tacoma,Manual,Red,82000.0
+Male,295000,Toyota,Tacoma,Manual,Red,82000.0
+Female,13500,Toyota,Corolla,Auto,Red,41000.0
+Male,942000,Toyota,Corolla,Auto,Pale White,41000.0
+Female,440000,Toyota,Celica,Auto,Pale White,45001.0
+Male,1121000,Toyota,Tacoma,Auto,Pale White,53100.0
+Male,1300000,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,600000,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,1210000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,13500,Toyota,Corolla,Auto,Pale White,41001.0
+Male,1390000,Toyota,Celica,Auto,Pale White,45000.0
+Male,451000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,13500,Toyota,Celica,Auto,Pale White,45001.0
+Male,270000,Toyota,Celica,Auto,Pale White,45000.0
+Male,13500,Toyota,Tacoma,Manual,Pale White,82000.0
+Male,13500,Toyota,Tacoma,Manual,Pale White,82000.0
+Female,985000,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,810000,Toyota,Corolla,Auto,Pale White,41001.0
+Male,2220000,Toyota,Celica,Auto,Pale White,45000.0
+Female,961000,Toyota,Celica,Auto,Pale White,45000.0
+Male,574000,Toyota,Celica,Auto,Pale White,45001.0
+Male,880000,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,13500,Toyota,Celica,Auto,Pale White,45000.0
+Male,1965000,Toyota,Tacoma,Auto,Pale White,53500.0
+Male,520000,Toyota,Celica,Auto,Pale White,45001.0
+Male,460000,Toyota,Celica,Auto,Pale White,45000.0
+Male,820000,Toyota,RAV4,Manual,Black,85000.0
+Male,275000,Toyota,Corolla,Auto,Pale White,41000.0
+Male,2350000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,865000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,13500,Toyota,Corolla,Auto,Red,41001.0
+Male,970000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,13500,Toyota,Tacoma,Manual,Red,82000.0
+Male,725000,Toyota,Tacoma,Manual,Red,82000.0
+Male,1155000,Toyota,Tacoma,Auto,Pale White,53500.0
+Female,685000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,13500,Toyota,Corolla,Auto,Red,41000.0
+Female,1280000,Toyota,RAV4,Manual,Black,85000.0
+Male,4515000,Toyota,Corolla,Auto,Red,41500.0
+Male,1080000,Toyota,Tacoma,Manual,Red,82000.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1000000,Toyota,Corolla,Auto,Red,41000.0
+Male,13500,Toyota,Corolla,Auto,Red,41001.0
+Male,2300000,Toyota,RAV4,Manual,Black,85000.0
+Male,875000,Toyota,RAV4,Manual,Black,85000.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,13500,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,13500,Toyota,Celica,Auto,Pale White,45000.0
+Male,420000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,475000,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,782000,Toyota,Corolla,Auto,Pale White,41000.0
+Male,705000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,790000,Toyota,Corolla,Auto,Pale White,41000.0
+Male,13500,Toyota,RAV4,Manual,Black,85000.0
+Male,1300000,Toyota,Tacoma,Manual,Pale White,82000.0
+Male,1130000,Toyota,RAV4,Manual,Black,85000.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,971000,Toyota,Celica,Auto,Pale White,45001.0
+Male,500000,Toyota,Celica,Auto,Pale White,45000.0
+Male,295000,Toyota,Tacoma,Manual,Pale White,82000.0
+Male,13500,Toyota,RAV4,Manual,Black,85000.0
+Male,840000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1350000,Toyota,Corolla,Auto,Pale White,41000.0
+Male,478000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1200000,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,1875000,Toyota,Tacoma,Auto,Pale White,53500.0
+Male,1055000,Toyota,Celica,Auto,Pale White,45501.0
+Female,1650000,Toyota,Celica,Auto,Pale White,45001.0
+Male,500000,Toyota,Corolla,Auto,Pale White,41000.0
+Male,347000,Toyota,Celica,Auto,Pale White,45000.0
+Male,720000,Toyota,Corolla,Auto,Red,41001.0
+Male,13500,Toyota,Tacoma,Auto,Pale White,53000.0
+Female,460000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,900000,Toyota,Tacoma,Auto,Pale White,53001.0
+Male,5200000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,350000,Toyota,RAV4,Manual,Black,85000.0
+Male,530000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,1180000,Toyota,Tacoma,Manual,Red,82001.0
+Male,917000,Toyota,Celica,Auto,Pale White,45000.0
+Male,1300000,Toyota,Celica,Auto,Pale White,45001.0
+Female,615000,Toyota,Tacoma,Auto,Pale White,53000.0
+Male,2400000,Toyota,RAV4,Manual,Black,85000.0
+Male,520000,Toyota,Celica,Auto,Pale White,45000.0
+Male,1635000,Toyota,Tacoma,Auto,Pale White,53501.0
